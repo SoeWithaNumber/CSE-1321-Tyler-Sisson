@@ -1,10 +1,14 @@
 using System;
-public class MenuItem<T>
+
+public class MenuItem
 {
-    protected String displayText;
-    protected T returnValue;
-    public MenuItem(String displayText, T returnValue){
+    public String displayText{get;}
+    private String id;
+    public MenuItem(String displayText, String id){
         this.displayText = displayText;
-        this.returnValue = returnValue;
+        this.id = id;
+    }
+    public String select(){
+        return id;
     }
 }
