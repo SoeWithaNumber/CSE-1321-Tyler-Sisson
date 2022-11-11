@@ -1,0 +1,15 @@
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\Conversion program.csproj.AssemblyReference.cache
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\Conversion program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\Conversion program.AssemblyInfoInputs.cache
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\Conversion program.AssemblyInfo.cs
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\Conversion program.csproj.CoreCompileInputs.cache
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\bin\Debug\net7.0\Conversion program.exe
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\bin\Debug\net7.0\Conversion program.deps.json
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\bin\Debug\net7.0\Conversion program.runtimeconfig.json
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\bin\Debug\net7.0\Conversion program.dll
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\bin\Debug\net7.0\Conversion program.pdb
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\Conversion program.dll
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\refint\Conversion program.dll
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\Conversion program.pdb
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\Conversion program.genruntimeconfig.cache
+C:\Users\tysis\Desktop\random coding shit\CSE 1321\Conversion program\obj\Debug\net7.0\ref\Conversion program.dll
